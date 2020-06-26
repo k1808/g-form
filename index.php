@@ -2,8 +2,6 @@
 error_reporting(E_ALL);
 require_once 'app\config\db.php';
 require_once 'app\config\function.php';
-
-
 ?>
 <!doctype html>
 <html lang="en">
